@@ -1,0 +1,8 @@
+package Config;
+
+public class Snippet {
+	public static void main(String[] args) {
+		Dhruv_MAVEN
+	}
+}
+
